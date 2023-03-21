@@ -6,6 +6,13 @@
     "quantity_to_save": 1000.0,
     "quantity_saved": 500.0,
     "description": "Example description"
+    },
+    {
+    "aSavingName": "Example saving",
+    "date_created": "2023-03-15T10:30:00.000Z",
+    "quantity_to_save": 1000.0,
+    "quantity_saved": 500.0,
+    "description": "Example description"
     }
   ]
 }
