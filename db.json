@@ -2,59 +2,59 @@
   "saving": [
     {
       "name": "New Car",
-      "dateCreated": "2022-01-01T12:00:00.000Z",
+      "dateCreated": "01-Jan-2022",
       "quantityToSave": 20000,
       "quantitySaved": 5000,
       "description": "Dream car",
-      "helpPhone": "915"
+      "helpPhone": "Contact Us!"
     },
     {
       "name": "World Trip",
-      "dateCreated": "2023-02-28T09:00:00.000Z",
+      "dateCreated": "28-Feb-2023",
       "quantityToSave": 50000,
       "quantitySaved": 10000,
       "description": "Visit all the continents",
-      "helpPhone": "915"
+      "helpPhone": "Contact Us!"
     },
     {
       "name": "College Fund",
-      "dateCreated": "2020-09-01T08:00:00.000Z",
+      "dateCreated": "01-Sep-2020",
       "quantityToSave": 80000,
       "quantitySaved": 20000,
       "description": "Save for child's education",
-      "helpPhone": "915"
+      "helpPhone": "Contact Us!"
     },
     {
       "name": "Retirement Fund",
-      "dateCreated": "2021-06-15T14:30:00.000Z",
+      "dateCreated": "15-Jun-2021",
       "quantityToSave": 1000000,
       "quantitySaved": 50000,
       "description": "Save for retirement",
-      "helpPhone": "915"
+      "helpPhone": "Contact Us!"
     },
     {
       "name": "Emergency Fund",
-      "dateCreated": "2021-12-31T23:59:59.000Z",
+      "dateCreated": "31-Dec-2021",
       "quantityToSave": 10000,
       "quantitySaved": 5000,
       "description": "For unexpected expenses",
-      "helpPhone": "915"
+      "helpPhone": "Contact Us!"
     },
     {
       "name": "House Renovation",
-      "dateCreated": "2022-05-01T08:00:00.000Z",
+      "dateCreated": "01-May-2022",
       "quantityToSave": 50000,
       "quantitySaved": 10000,
       "description": "Renovate the kitchen and bathroom",
-      "helpPhone": "915"
+      "helpPhone": "Contact Us!"
     },
     {
       "name": "Wedding Fund",
-      "dateCreated": "2022-09-01T10:00:00.000Z",
+      "dateCreated": "01-Sep-2022",
       "quantityToSave": 30000,
       "quantitySaved": 5000,
       "description": "Save for the big day",
-      "helpPhone": "915"
+      "helpPhone": "Contact Us!"
     }
   ]
 }
